@@ -1,3 +1,3 @@
 ## PeopleKey 👋
 
-A new paradigm for signing, verifying and protecting data
+A new paradigm for signing, verifying and protecting personal digital assets
